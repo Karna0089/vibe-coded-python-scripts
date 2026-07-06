@@ -13,7 +13,7 @@ A Python desktop application that allows you to securely share files and message
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/Karna0089/vibe-coded-python-scripts.git](https://github.com/Karna0089/vibe-coded-python-scripts.git)
+   git clone https://github.com/Karna0089/vibe-coded-python-scripts.git
 
 2. Navigate to the project folder:
 
@@ -23,15 +23,15 @@ A Python desktop application that allows you to securely share files and message
 
    ```bash
    pip install -r requirements.txt
----Usage---
-Run the application (in terminal):
+🚀 Usage
+1. Run the application (in terminal):
 
       ```bash
       python app.py
-(Optional) Type a custom message or click Choose File to select a document to share.
+2. (Optional) Type a custom message or click Choose File to select a document to share.
 
-Click ▶ Start Sharing.
+3. Click ▶ Start Sharing.
 
-A 6-digit PIN and a QR code will appear on your screen.
+4. A 6-digit PIN and a QR code will appear on your screen.
 
-Scan the QR code with your mobile device, enter the PIN, and securely access your files!
+5. Scan the QR code with your mobile device, enter the PIN, and securely access your files!
