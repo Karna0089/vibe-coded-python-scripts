@@ -1,5 +1,10 @@
 # 🔒 Secure HTTPS QR File Share
 
+<p align="center">
+  <img src="Screenshot%202026-07-06%20164024.png" width="45%" />
+  <img src="Screenshot%202026-07-06%20164032.png" width="45%" />
+</p>
+
 A Python desktop application that allows you to securely share files and messages over your local network. Simply select a file, scan the dynamically generated QR code with your phone, and securely view or download the content.
 
 ## ✨ Features
